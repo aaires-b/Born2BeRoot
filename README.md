@@ -46,43 +46,28 @@ The shell acts like an interface between the user and the kernel . It interprete
 
 ## Debian vs Rocky
 
-**Debian**
+**Debian**                                                               **Rocky ( follows CentOS)**
 
-**Rocky ( follows CentOS)**
+Best for software                                                         Best for servers
 
-Best for software 
+Old Linux Server Distribution                                             Recent distribution (2021)
 
-Old Linux Server Distribution
+Base for numerous linux distributions                                     Secure Boot
 
-Base for numerous linux distributions 
+Needs constant updates                                                    Free of charge
 
-Needs constant updates 
+Free of charge                                                            Stable and Modern
 
-Free of charge
+Supports various software architectures                                   Few updates 
 
-Supports various software architectures 
-
-Stable and Reliable
+Stable and Reliable                                                       More heavy
 
 Lets users makes adjusts
 
 Has lots of packages 
 
-Less heavy in terms of space that occupies
+Less heavy in terms of space that occupies    
 
-Best for servers
-
-Recent distribution (2021)
-
-Secure Boot
-
-Free of charge
-
-Stable and Modern
-
-Few updates 
-
-More heavy 
 
 ## APT (Advanced package tool)
 
